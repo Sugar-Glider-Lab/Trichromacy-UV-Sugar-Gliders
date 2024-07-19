@@ -13,4 +13,4 @@ Folders/Files:
 - Retinal Images: Raw .czi files and Fiji processed images of retinal samples
 	
 
-Link to data:
+Link to data:https://github.com/LNielsen-Data/Trichromacy-UV-Sugar-Gliders.git
