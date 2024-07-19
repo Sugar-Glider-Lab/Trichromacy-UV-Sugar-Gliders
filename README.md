@@ -8,7 +8,7 @@ R (4.3.3)
 
 Folders/Files:
 - Raw Data: Raw behavioral data in .csv format separated by test type	
-- Binomial Converted Data: Converted behavioral data of groups of individuals (male, female, all) per test type. 1 representing choosing the "correct" color and 0 representing choosing the "incorrect" color.
+- Converted Binomial Data: Converted behavioral data of groups of individuals (male, female, all) per test type. 1 representing choosing the "correct" color and 0 representing choosing the "incorrect" color.
 - Code: Script of code with annotations
 - Retinal Images: Raw .czi files and Fiji processed images of retinal samples
 	
